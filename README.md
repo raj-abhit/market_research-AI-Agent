@@ -1,4 +1,4 @@
-﻿# Insight Pilot
+﻿# Market Research AI-Agent
 
 A multi-agent CrewAI system that evaluates an AI product idea end-to-end and generates an investor-style business memo.
 Repository: `market-research-ai-agent`
