@@ -1,6 +1,7 @@
-﻿# InsightPilot AI Agent Crew
+﻿# Insight Pilot
 
 A multi-agent CrewAI system that evaluates an AI product idea end-to-end and generates an investor-style business memo.
+Repository: `market-research-ai-agent`
 
 This project coordinates specialist agents for:
 - Market sizing and trend analysis
@@ -108,7 +109,7 @@ uv pip install --python .\\.venv\\Scripts\\python.exe "litellm[proxy]"
 ## Project Structure
 
 ```text
-market_research_crew/
+market-research-ai-agent/
 |-- src/market_research_crew/
 |   |-- config/
 |   |   |-- agents.yaml
